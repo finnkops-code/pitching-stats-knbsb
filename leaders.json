@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-16T14:17:41Z",
+  "bijgewerkt": "2026-05-16T15:45:51Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -101,6 +101,11 @@
           "waarde": "5"
         },
         {
+          "naam": "Dennis BURGERSDIJK",
+          "team": "AMS",
+          "waarde": "4"
+        },
+        {
           "naam": "Shairon MARTIS",
           "team": "NEP",
           "waarde": "4"
@@ -114,11 +119,6 @@
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
           "waarde": "4"
-        },
-        {
-          "naam": "Dennis BURGERSDIJK",
-          "team": "AMS",
-          "waarde": "3"
         }
       ]
     }
