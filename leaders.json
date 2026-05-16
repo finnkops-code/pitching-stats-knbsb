@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-16T11:41:52Z",
+  "bijgewerkt": "2026-05-16T12:54:20Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -51,14 +51,14 @@
           "waarde": "31"
         },
         {
-          "naam": "Ingmar HUTZEZON",
-          "team": "UVV",
-          "waarde": "27"
-        },
-        {
           "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
-          "waarde": "27"
+          "waarde": "30"
+        },
+        {
+          "naam": "Noah ZAVOLAS",
+          "team": "KIN",
+          "waarde": "29"
         }
       ]
     },
@@ -76,25 +76,30 @@
           "waarde": "33.0"
         },
         {
+          "naam": "Nelmerson ANGELA",
+          "team": "TWI",
+          "waarde": "32.2"
+        },
+        {
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
           "waarde": "32.2"
         },
         {
-          "naam": "Koen POSTELMANS",
-          "team": "NEP",
-          "waarde": "26.2"
-        },
-        {
           "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
-          "waarde": "26.0"
+          "waarde": "32.0"
         }
       ]
     },
     {
       "label": "Wins",
       "leaders": [
+        {
+          "naam": "Juancarlos SULBARÁN",
+          "team": "NEP",
+          "waarde": "5"
+        },
         {
           "naam": "Shairon MARTIS",
           "team": "NEP",
@@ -108,11 +113,6 @@
         {
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
-          "waarde": "4"
-        },
-        {
-          "naam": "Juancarlos SULBARÁN",
-          "team": "NEP",
           "waarde": "4"
         },
         {
