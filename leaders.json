@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-16T15:45:51Z",
+  "bijgewerkt": "2026-05-16T16:42:40Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -26,9 +26,9 @@
           "waarde": "0.00"
         },
         {
-          "naam": "Ayumu ISHIKAWA",
-          "team": "TWI",
-          "waarde": "0.50"
+          "naam": "Rick RIZVIĆ",
+          "team": "KIN",
+          "waarde": "1.10"
         }
       ]
     },
@@ -51,14 +51,14 @@
           "waarde": "31"
         },
         {
-          "naam": "Juancarlos SULBARÁN",
+          "naam": "Shairon MARTIS",
           "team": "NEP",
           "waarde": "30"
         },
         {
-          "naam": "Noah ZAVOLAS",
-          "team": "KIN",
-          "waarde": "29"
+          "naam": "Juancarlos SULBARÁN",
+          "team": "NEP",
+          "waarde": "30"
         }
       ]
     },
@@ -96,6 +96,11 @@
       "label": "Wins",
       "leaders": [
         {
+          "naam": "Shairon MARTIS",
+          "team": "NEP",
+          "waarde": "5"
+        },
+        {
           "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
           "waarde": "5"
@@ -103,11 +108,6 @@
         {
           "naam": "Dennis BURGERSDIJK",
           "team": "AMS",
-          "waarde": "4"
-        },
-        {
-          "naam": "Shairon MARTIS",
-          "team": "NEP",
           "waarde": "4"
         },
         {
