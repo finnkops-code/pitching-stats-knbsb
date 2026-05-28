@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-28T20:02:22Z",
+  "bijgewerkt": "2026-05-28T22:25:09Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -21,14 +21,14 @@
           "waarde": "0.00"
         },
         {
-          "naam": "Koen POSTELMANS",
+          "naam": "Kevin KELLY",
           "team": "NEP",
           "waarde": "0.00"
         },
         {
-          "naam": "Rick RIZVIĆ",
-          "team": "KIN",
-          "waarde": "1.10"
+          "naam": "Koen POSTELMANS",
+          "team": "NEP",
+          "waarde": "0.00"
         }
       ]
     },
@@ -56,9 +56,9 @@
           "waarde": "31"
         },
         {
-          "naam": "Shairon MARTIS",
-          "team": "NEP",
-          "waarde": "30"
+          "naam": "Kimi VERKRUIJSSEN",
+          "team": "HCA",
+          "waarde": "31"
         }
       ]
     },
