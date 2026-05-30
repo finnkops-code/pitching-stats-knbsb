@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T12:00:25Z",
+  "bijgewerkt": "2026-05-30T14:22:39Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -66,6 +66,11 @@
       "label": "Innings Pitched",
       "leaders": [
         {
+          "naam": "Kaj TIMMERMANS",
+          "team": "HCA",
+          "waarde": "40.2"
+        },
+        {
           "naam": "Nelmerson ANGELA",
           "team": "TWI",
           "waarde": "40.0"
@@ -74,11 +79,6 @@
           "naam": "Lars HUIJER",
           "team": "AMS",
           "waarde": "40.0"
-        },
-        {
-          "naam": "Kaj TIMMERMANS",
-          "team": "HCA",
-          "waarde": "33.2"
         },
         {
           "naam": "Rick RIZVIĆ",
