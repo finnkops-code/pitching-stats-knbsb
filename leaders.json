@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T10:42:27Z",
+  "bijgewerkt": "2026-05-30T12:00:25Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -38,7 +38,7 @@
         {
           "naam": "Lars HUIJER",
           "team": "AMS",
-          "waarde": "40"
+          "waarde": "46"
         },
         {
           "naam": "Rick RIZVIĆ",
@@ -71,14 +71,14 @@
           "waarde": "40.0"
         },
         {
+          "naam": "Lars HUIJER",
+          "team": "AMS",
+          "waarde": "40.0"
+        },
+        {
           "naam": "Kaj TIMMERMANS",
           "team": "HCA",
           "waarde": "33.2"
-        },
-        {
-          "naam": "Lars HUIJER",
-          "team": "AMS",
-          "waarde": "33.0"
         },
         {
           "naam": "Rick RIZVIĆ",
@@ -111,13 +111,13 @@
           "waarde": "4"
         },
         {
-          "naam": "Koen POSTELMANS",
-          "team": "NEP",
+          "naam": "Lars HUIJER",
+          "team": "AMS",
           "waarde": "4"
         },
         {
-          "naam": "Rick RIZVIĆ",
-          "team": "KIN",
+          "naam": "Koen POSTELMANS",
+          "team": "NEP",
           "waarde": "4"
         }
       ]
