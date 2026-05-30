@@ -1,15 +1,10 @@
 {
-  "bijgewerkt": "2026-05-30T14:22:39Z",
+  "bijgewerkt": "2026-05-30T15:57:23Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
       "label": "ERA",
       "leaders": [
-        {
-          "naam": "Aaron DE GROOT",
-          "team": "NEP",
-          "waarde": "0.00"
-        },
         {
           "naam": "Arij FRANSEN",
           "team": "HCA",
@@ -28,7 +23,12 @@
         {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
-          "waarde": "0.00"
+          "waarde": "0.30"
+        },
+        {
+          "naam": "Rick RIZVIĆ",
+          "team": "KIN",
+          "waarde": "1.10"
         }
       ]
     },
@@ -46,14 +46,14 @@
           "waarde": "36"
         },
         {
+          "naam": "Koen POSTELMANS",
+          "team": "NEP",
+          "waarde": "35"
+        },
+        {
           "naam": "Nelmerson ANGELA",
           "team": "TWI",
           "waarde": "33"
-        },
-        {
-          "naam": "Koen POSTELMANS",
-          "team": "NEP",
-          "waarde": "31"
         },
         {
           "naam": "Kimi VERKRUIJSSEN",
