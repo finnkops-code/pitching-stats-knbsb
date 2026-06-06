@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T06:45:09Z",
+  "bijgewerkt": "2026-06-06T13:03:33Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -26,9 +26,9 @@
           "waarde": "0.30"
         },
         {
-          "naam": "Juancarlos SULBARÁN",
-          "team": "NEP",
-          "waarde": "1.13"
+          "naam": "Stijn VAN DER SCHAAF",
+          "team": "TWI",
+          "waarde": "1.17"
         }
       ]
     },
@@ -38,7 +38,7 @@
         {
           "naam": "Lars HUIJER",
           "team": "AMS",
-          "waarde": "46"
+          "waarde": "53"
         },
         {
           "naam": "Kimi VERKRUIJSSEN",
@@ -51,14 +51,14 @@
           "waarde": "38"
         },
         {
+          "naam": "Nelmerson ANGELA",
+          "team": "TWI",
+          "waarde": "37"
+        },
+        {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
           "waarde": "35"
-        },
-        {
-          "naam": "Martijn SCHOONDERWOERD",
-          "team": "AMS",
-          "waarde": "34"
         }
       ]
     },
@@ -66,19 +66,19 @@
       "label": "Innings Pitched",
       "leaders": [
         {
-          "naam": "Kaj TIMMERMANS",
-          "team": "HCA",
-          "waarde": "40.2"
+          "naam": "Lars HUIJER",
+          "team": "AMS",
+          "waarde": "47.0"
         },
         {
           "naam": "Nelmerson ANGELA",
           "team": "TWI",
-          "waarde": "40.0"
+          "waarde": "44.0"
         },
         {
-          "naam": "Lars HUIJER",
-          "team": "AMS",
-          "waarde": "40.0"
+          "naam": "Kaj TIMMERMANS",
+          "team": "HCA",
+          "waarde": "40.2"
         },
         {
           "naam": "Rick RIZVIĆ",
@@ -86,9 +86,9 @@
           "waarde": "37.2"
         },
         {
-          "naam": "Aaron ISENIA",
-          "team": "UVV",
-          "waarde": "36.2"
+          "naam": "Juancarlos SULBARÁN",
+          "team": "NEP",
+          "waarde": "37.0"
         }
       ]
     },
@@ -103,15 +103,15 @@
         {
           "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
+          "waarde": "6"
+        },
+        {
+          "naam": "Lars HUIJER",
+          "team": "AMS",
           "waarde": "5"
         },
         {
           "naam": "Dennis BURGERSDIJK",
-          "team": "AMS",
-          "waarde": "4"
-        },
-        {
-          "naam": "Lars HUIJER",
           "team": "AMS",
           "waarde": "4"
         },
