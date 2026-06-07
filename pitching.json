@@ -563,7 +563,7 @@
     },
     {
       "pitch_win": 0,
-      "pitch_loss": 1,
+      "pitch_loss": 0,
       "era": "4.22",
       "pitch_appear": 8,
       "pitch_gs": 0,
@@ -576,7 +576,7 @@
       "pitch_er": 5,
       "pitch_bb": 10,
       "pitch_so": 7,
-      "pitch_double": 0,
+      "pitch_double": 1,
       "pitch_triple": 0,
       "pitch_hr": 0,
       "pitch_ab": 42,
@@ -2278,7 +2278,7 @@
       "teamid": 39585
     },
     {
-      "pitch_win": 1,
+      "pitch_win": 0,
       "pitch_loss": 1,
       "era": "3.38",
       "pitch_appear": 11,
