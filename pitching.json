@@ -563,7 +563,7 @@
     },
     {
       "pitch_win": 0,
-      "pitch_loss": 0,
+      "pitch_loss": 1,
       "era": "4.22",
       "pitch_appear": 8,
       "pitch_gs": 0,
@@ -2049,13 +2049,13 @@
     {
       "pitch_win": 2,
       "pitch_loss": 4,
-      "era": "2.57",
+      "era": "2.55",
       "pitch_appear": 9,
       "pitch_gs": 6,
       "pitch_save": 1,
       "pitch_cg": 2,
       "pitch_sho": 1,
-      "pitch_ip": "49.0",
+      "pitch_ip": "49.1",
       "pitch_h": 59,
       "pitch_r": 21,
       "pitch_er": 14,
@@ -2278,7 +2278,7 @@
       "teamid": 39585
     },
     {
-      "pitch_win": 0,
+      "pitch_win": 1,
       "pitch_loss": 1,
       "era": "3.38",
       "pitch_appear": 11,
