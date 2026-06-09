@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-09T05:59:14Z",
+  "bijgewerkt": "2026-06-09T09:42:57Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -68,7 +68,7 @@
         {
           "naam": "Kaj TIMMERMANS",
           "team": "HCA",
-          "waarde": "49.1"
+          "waarde": "48.2"
         },
         {
           "naam": "Lars HUIJER",
