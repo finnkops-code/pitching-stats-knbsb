@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-13T15:23:50Z",
+  "bijgewerkt": "2026-06-13T17:07:38Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -23,12 +23,12 @@
         {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
-          "waarde": "0.27"
+          "waarde": "0.23"
         },
         {
-          "naam": "Juancarlos SULBARÁN",
+          "naam": "Aaron DE GROOT",
           "team": "NEP",
-          "waarde": "1.22"
+          "waarde": "1.15"
         }
       ]
     },
@@ -43,7 +43,7 @@
         {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
-          "waarde": "44"
+          "waarde": "50"
         },
         {
           "naam": "Rick RIZVIĆ",
@@ -51,13 +51,13 @@
           "waarde": "43"
         },
         {
-          "naam": "Nelmerson ANGELA",
-          "team": "TWI",
-          "waarde": "42"
+          "naam": "Noah ZAVOLAS",
+          "team": "KIN",
+          "waarde": "43"
         },
         {
-          "naam": "Kimi VERKRUIJSSEN",
-          "team": "HCA",
+          "naam": "Nelmerson ANGELA",
+          "team": "TWI",
           "waarde": "42"
         }
       ]
@@ -66,14 +66,14 @@
       "label": "Innings Pitched",
       "leaders": [
         {
+          "naam": "Kaj TIMMERMANS",
+          "team": "HCA",
+          "waarde": "49.2"
+        },
+        {
           "naam": "Nelmerson ANGELA",
           "team": "TWI",
           "waarde": "49.1"
-        },
-        {
-          "naam": "Kaj TIMMERMANS",
-          "team": "HCA",
-          "waarde": "48.2"
         },
         {
           "naam": "Lars HUIJER",
@@ -101,6 +101,11 @@
           "waarde": "7"
         },
         {
+          "naam": "Koen POSTELMANS",
+          "team": "NEP",
+          "waarde": "6"
+        },
+        {
           "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
           "waarde": "6"
@@ -113,11 +118,6 @@
         {
           "naam": "Lars HUIJER",
           "team": "AMS",
-          "waarde": "5"
-        },
-        {
-          "naam": "Koen POSTELMANS",
-          "team": "NEP",
           "waarde": "5"
         }
       ]
