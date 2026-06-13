@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-13T11:45:04Z",
+  "bijgewerkt": "2026-06-13T13:20:37Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -46,25 +46,30 @@
           "waarde": "44"
         },
         {
-          "naam": "Kimi VERKRUIJSSEN",
-          "team": "HCA",
-          "waarde": "39"
-        },
-        {
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
-          "waarde": "38"
+          "waarde": "43"
         },
         {
           "naam": "Nelmerson ANGELA",
           "team": "TWI",
-          "waarde": "37"
+          "waarde": "42"
+        },
+        {
+          "naam": "Kimi VERKRUIJSSEN",
+          "team": "HCA",
+          "waarde": "42"
         }
       ]
     },
     {
       "label": "Innings Pitched",
       "leaders": [
+        {
+          "naam": "Nelmerson ANGELA",
+          "team": "TWI",
+          "waarde": "49.1"
+        },
         {
           "naam": "Kaj TIMMERMANS",
           "team": "HCA",
@@ -76,19 +81,14 @@
           "waarde": "47.0"
         },
         {
-          "naam": "Nelmerson ANGELA",
-          "team": "TWI",
-          "waarde": "44.0"
-        },
-        {
-          "naam": "Dennis BURGERSDIJK",
-          "team": "AMS",
-          "waarde": "38.0"
-        },
-        {
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
-          "waarde": "37.2"
+          "waarde": "43.2"
+        },
+        {
+          "naam": "Shairon MARTIS",
+          "team": "NEP",
+          "waarde": "42.0"
         }
       ]
     },
@@ -98,7 +98,7 @@
         {
           "naam": "Shairon MARTIS",
           "team": "NEP",
-          "waarde": "6"
+          "waarde": "7"
         },
         {
           "naam": "Juancarlos SULBARÁN",
