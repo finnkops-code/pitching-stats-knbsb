@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-16T17:52:31Z",
+  "bijgewerkt": "2026-06-16T20:37:54Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -26,9 +26,9 @@
           "waarde": "0.23"
         },
         {
-          "naam": "Aaron DE GROOT",
-          "team": "NEP",
-          "waarde": "1.15"
+          "naam": "Zane HENDRICKX",
+          "team": "TWI",
+          "waarde": "0.96"
         }
       ]
     },
