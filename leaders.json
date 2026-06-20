@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-20T09:56:37Z",
+  "bijgewerkt": "2026-06-20T13:22:57Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -26,9 +26,9 @@
           "waarde": "0.23"
         },
         {
-          "naam": "Zane HENDRICKX",
-          "team": "TWI",
-          "waarde": "0.96"
+          "naam": "Juancarlos SULBARÁN",
+          "team": "NEP",
+          "waarde": "1.29"
         }
       ]
     },
@@ -68,7 +68,7 @@
         {
           "naam": "Kaj TIMMERMANS",
           "team": "HCA",
-          "waarde": "55.2"
+          "waarde": "62.2"
         },
         {
           "naam": "Nelmerson ANGELA",
@@ -86,9 +86,9 @@
           "waarde": "50.2"
         },
         {
-          "naam": "Kimi VERKRUIJSSEN",
-          "team": "HCA",
-          "waarde": "43.1"
+          "naam": "Shairon MARTIS",
+          "team": "NEP",
+          "waarde": "49.0"
         }
       ]
     },
@@ -98,7 +98,7 @@
         {
           "naam": "Shairon MARTIS",
           "team": "NEP",
-          "waarde": "7"
+          "waarde": "8"
         },
         {
           "naam": "Juancarlos SULBARÁN",
