@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-20T13:22:57Z",
+  "bijgewerkt": "2026-06-20T15:27:40Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -11,19 +11,19 @@
           "waarde": "0.00"
         },
         {
-          "naam": "Ryan HUNTINGTON",
-          "team": "NEP",
-          "waarde": "0.00"
-        },
-        {
           "naam": "Kevin KELLY",
           "team": "NEP",
           "waarde": "0.00"
         },
         {
+          "naam": "Ryan HUNTINGTON",
+          "team": "NEP",
+          "waarde": "0.51"
+        },
+        {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
-          "waarde": "0.23"
+          "waarde": "0.60"
         },
         {
           "naam": "Juancarlos SULBARÁN",
@@ -43,7 +43,7 @@
         {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
-          "waarde": "50"
+          "waarde": "57"
         },
         {
           "naam": "Rick RIZVIĆ",
@@ -101,23 +101,23 @@
           "waarde": "8"
         },
         {
+          "naam": "Koen POSTELMANS",
+          "team": "NEP",
+          "waarde": "7"
+        },
+        {
           "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
           "waarde": "7"
         },
         {
-          "naam": "Lars HUIJER",
+          "naam": "Dennis BURGERSDIJK",
           "team": "AMS",
           "waarde": "6"
         },
         {
-          "naam": "Koen POSTELMANS",
-          "team": "NEP",
-          "waarde": "6"
-        },
-        {
-          "naam": "Rick RIZVIĆ",
-          "team": "KIN",
+          "naam": "Lars HUIJER",
+          "team": "AMS",
           "waarde": "6"
         }
       ]
