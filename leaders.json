@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-20T15:27:40Z",
+  "bijgewerkt": "2026-06-20T17:13:47Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -56,9 +56,9 @@
           "waarde": "46"
         },
         {
-          "naam": "Kimi VERKRUIJSSEN",
-          "team": "HCA",
-          "waarde": "45"
+          "naam": "Noah ZAVOLAS",
+          "team": "KIN",
+          "waarde": "46"
         }
       ]
     },
@@ -68,7 +68,7 @@
         {
           "naam": "Kaj TIMMERMANS",
           "team": "HCA",
-          "waarde": "62.2"
+          "waarde": "65.2"
         },
         {
           "naam": "Nelmerson ANGELA",
