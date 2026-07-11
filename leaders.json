@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-10T16:12:04Z",
+  "bijgewerkt": "2026-07-11T16:40:23Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -23,12 +23,12 @@
         {
           "naam": "Koen POSTELMANS",
           "team": "NEP",
-          "waarde": "0.60"
+          "waarde": "0.56"
         },
         {
-          "naam": "Juancarlos SULBARÁN",
-          "team": "NEP",
-          "waarde": "1.29"
+          "naam": "Eddie AUCOIN",
+          "team": "PIO",
+          "waarde": "1.38"
         }
       ]
     },
@@ -36,29 +36,29 @@
       "label": "Strikeouts",
       "leaders": [
         {
+          "naam": "Koen POSTELMANS",
+          "team": "NEP",
+          "waarde": "66"
+        },
+        {
           "naam": "Lars HUIJER",
           "team": "AMS",
           "waarde": "61"
         },
         {
-          "naam": "Koen POSTELMANS",
+          "naam": "Kimi VERKRUIJSSEN",
+          "team": "HCA",
+          "waarde": "51"
+        },
+        {
+          "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
-          "waarde": "57"
+          "waarde": "50"
         },
         {
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
           "waarde": "49"
-        },
-        {
-          "naam": "Nelmerson ANGELA",
-          "team": "TWI",
-          "waarde": "46"
-        },
-        {
-          "naam": "Noah ZAVOLAS",
-          "team": "KIN",
-          "waarde": "46"
         }
       ]
     },
@@ -101,12 +101,12 @@
           "waarde": "8"
         },
         {
-          "naam": "Koen POSTELMANS",
+          "naam": "Juancarlos SULBARÁN",
           "team": "NEP",
-          "waarde": "7"
+          "waarde": "8"
         },
         {
-          "naam": "Juancarlos SULBARÁN",
+          "naam": "Koen POSTELMANS",
           "team": "NEP",
           "waarde": "7"
         },
