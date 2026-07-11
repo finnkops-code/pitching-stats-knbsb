@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T16:40:23Z",
+  "bijgewerkt": "2026-07-11T17:44:02Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -16,6 +16,11 @@
           "waarde": "0.00"
         },
         {
+          "naam": "Jelle VAN DER LELIE",
+          "team": "AMS",
+          "waarde": "0.00"
+        },
+        {
           "naam": "Ryan HUNTINGTON",
           "team": "NEP",
           "waarde": "0.51"
@@ -24,11 +29,6 @@
           "naam": "Koen POSTELMANS",
           "team": "NEP",
           "waarde": "0.56"
-        },
-        {
-          "naam": "Eddie AUCOIN",
-          "team": "PIO",
-          "waarde": "1.38"
         }
       ]
     },
