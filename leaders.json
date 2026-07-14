@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-14T20:03:00Z",
+  "bijgewerkt": "2026-07-14T21:44:34Z",
   "bron": "https://stats.knbsbstats.nl/api/v1/stats/events/2026-lucky-day-hoofdklasse/index?section=players&stats-section=pitching&language=en",
   "categories": [
     {
@@ -23,7 +23,7 @@
         {
           "naam": "Ryan HUNTINGTON",
           "team": "NEP",
-          "waarde": "0.51"
+          "waarde": "0.44"
         },
         {
           "naam": "Koen POSTELMANS",
@@ -43,7 +43,7 @@
         {
           "naam": "Lars HUIJER",
           "team": "AMS",
-          "waarde": "61"
+          "waarde": "65"
         },
         {
           "naam": "Kimi VERKRUIJSSEN",
@@ -71,24 +71,24 @@
           "waarde": "65.2"
         },
         {
-          "naam": "Nelmerson ANGELA",
-          "team": "TWI",
-          "waarde": "53.0"
-        },
-        {
           "naam": "Lars HUIJER",
           "team": "AMS",
+          "waarde": "58.0"
+        },
+        {
+          "naam": "Shairon MARTIS",
+          "team": "NEP",
+          "waarde": "54.0"
+        },
+        {
+          "naam": "Nelmerson ANGELA",
+          "team": "TWI",
           "waarde": "53.0"
         },
         {
           "naam": "Rick RIZVIĆ",
           "team": "KIN",
           "waarde": "50.2"
-        },
-        {
-          "naam": "Shairon MARTIS",
-          "team": "NEP",
-          "waarde": "49.0"
         }
       ]
     },
@@ -98,7 +98,7 @@
         {
           "naam": "Shairon MARTIS",
           "team": "NEP",
-          "waarde": "8"
+          "waarde": "9"
         },
         {
           "naam": "Juancarlos SULBARÁN",
